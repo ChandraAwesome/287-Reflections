@@ -43,10 +43,6 @@ namespace ConsoleApp2
 
             Quiz Class = (Quiz)invoking;
 
-            // Class.FindEvenDigitNumber();
-
-            MaximumSellingPrice.Basket();
-
 
         }
     }
